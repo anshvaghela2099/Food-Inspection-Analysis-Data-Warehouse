@@ -136,6 +136,12 @@ The dataset is sourced from publicly available **food inspection records** provi
    - **Screenshots of dashboards**.
    - **Power BI and Tableau workbooks**.
 
+     ![image](https://github.com/user-attachments/assets/4d395ed0-d144-4eda-9e8c-1fce1f50fe2a)
+
+     ![image](https://github.com/user-attachments/assets/71c81304-ee28-4347-acad-ea879e6e9835)
+
+     ![image](https://github.com/user-attachments/assets/dfec581e-a5b2-4369-a9f8-347d19e481cf)
+
 ---
 
 ## **Reports and Analysis**
