@@ -93,6 +93,9 @@ The dataset is sourced from publicly available **food inspection records** provi
      - `dim_violation`
      - `dim_location`
 
+     ![image](https://github.com/user-attachments/assets/439a02a3-720e-4303-83f5-4194a75b4f1f)
+
+
 3. **Deliverables**
    - **ERD Diagram (ER/Studio or Navicat)**
    - **DDL scripts** for database schema.
